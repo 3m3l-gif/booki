@@ -1,0 +1,5 @@
+{
+  "name": "Booki",
+  "description": "책의 개요, 세계관 설정, 등장인물 관계도, 사건 연표 등을 체계적으로 정리할 수 있는 창작 지원 대시보드입니다.",
+  "requestFramePermissions": []
+}
